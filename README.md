@@ -8,4 +8,4 @@ Launch the Anaconda Navigator application.
 Click on "**Environments**" in the left-hand menu.
 Click the "**Create**" button in the bottom left corner.
 Enter the project name in the "**Name**" field.
-In the "**Command**" field, enter `cmd.exe` for **_Windows_** or *bash* for **_Linux/Mac_**.
+In the "**Command**" field, enter `cmd.exe` for **_Windows_** or `bash` for **_Linux/Mac_**.
