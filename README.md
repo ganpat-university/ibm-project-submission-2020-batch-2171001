@@ -24,8 +24,7 @@ ___
 ## 4. Install Required Packages
 Open the command prompt or terminal in the new environment.
 Run the following commands one by one to install the necessary packages:
-```
-pip install tensorflow
+```pip install tensorflow
 conda install -c conda-forge keras
 conda install -c anaconda scikit-learn
 conda install -c conda-forge opencv
