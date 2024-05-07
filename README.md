@@ -5,5 +5,7 @@ Follow the link to download and install Anaconda: (**https://www.anaconda.com/pr
 ## 2. Open Anaconda Navigator
 Launch the Anaconda Navigator application.
 ## 3. Create New Environment
-Click on > "Environments" in the left-hand menu.
-Click the > "Create" button in the bottom left corner.
+Click on "**Environments**" in the left-hand menu.
+Click the "**Create**" button in the bottom left corner.
+Enter the project name in the "Name" field.
+In the "**Command**" field, enter *cmd.exe* for **_Windows_** or *bash* for **_Linux/Mac_**.
