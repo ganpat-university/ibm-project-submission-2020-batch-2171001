@@ -13,7 +13,7 @@ Click the "**Create**" button in the bottom left corner.
 
 Enter the project name in the "**Name**" field and click on **Create**.
 
-Click on the **drop-down** list and select "**Not installed**" option.
+Click on the **drop-down** list at the top and select "**Not installed**" option.
 
 And, on the right-hand side *Search Bar* search for "**jupyter**". Check the "**jupyter**" metapackage and click on "**Apply**".
 
