@@ -11,9 +11,7 @@ Click on "**Environments**" in the left-hand menu.
 
 Click the "**Create**" button in the bottom left corner.
 
-Enter the project name in the "**Name**" field.
-
-In the "**Command**" field, enter `cmd.exe` for **_Windows_** or `bash` for **_Linux/Mac_**.
+Enter the project name in the "**Name**" field and click on **Create**.
 
 Click on the **drop-down** list and select "**Not installed**" option.
 
