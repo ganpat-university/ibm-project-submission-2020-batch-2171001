@@ -10,5 +10,7 @@ Click the "**Create**" button in the bottom left corner.
 Enter the project name in the "**Name**" field.
 ___
 In the "**Command**" field, enter `cmd.exe` for **_Windows_** or `bash` for **_Linux/Mac_**.
-___
+---
 Click on the **drop-down** list and select "**Not installed**" option.
+***
+Hi
