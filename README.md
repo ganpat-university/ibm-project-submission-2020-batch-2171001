@@ -32,3 +32,5 @@ conda install -c anaconda scikit-image
 conda install -c anaconda flask
 pip install pandas
 pip install werkzeug==2.3.7```
+___
+## 5. Run the Project
