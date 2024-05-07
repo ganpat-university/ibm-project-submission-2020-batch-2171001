@@ -20,3 +20,4 @@ Click on the **drop-down** list and select "**Not installed**" option.
 And, on the right-hand side *Search Bar* search for "**jupyter**". Check the "**jupyter**" metapackage and click on "**Apply**".
 
 Now, select the created Environment and let it load the packages. Once loaded, click on the *Play* button and select **Open Terminal**.
+__
