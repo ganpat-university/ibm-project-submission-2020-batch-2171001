@@ -20,4 +20,16 @@ Click on the **drop-down** list and select "**Not installed**" option.
 And, on the right-hand side *Search Bar* search for "**jupyter**". Check the "**jupyter**" metapackage and click on "**Apply**".
 
 Now, select the created Environment and let it load the packages. Once loaded, click on the *Play* button and select **Open Terminal**.
-__
+___
+## 4. Install Required Packages
+Open the command prompt or terminal in the new environment.
+Run the following commands one by one to install the necessary packages:
+```
+pip install tensorflow
+conda install -c conda-forge keras
+conda install -c anaconda scikit-learn
+conda install -c conda-forge opencv
+conda install -c anaconda scikit-image
+conda install -c anaconda flask
+pip install pandas
+pip install werkzeug==2.3.7```
