@@ -24,13 +24,20 @@ ___
 ## 4. Install Required Packages
 Open the command prompt or terminal in the new environment.
 Run the following commands one by one to install the necessary packages:
-```pip install tensorflow
+```
+pip install tensorflow
 conda install -c conda-forge keras
 conda install -c anaconda scikit-learn
 conda install -c conda-forge opencv
 conda install -c anaconda scikit-image
 conda install -c anaconda flask
 pip install pandas
-pip install werkzeug==2.3.7```
+pip install werkzeug==2.3.7
+```
 ___
 ## 5. Run the Project
+After the installation of all the packages, change the directory to where the project files are located.
+
+That's it! You're now ready to start your project in this environment.
+
+```python main.py```
