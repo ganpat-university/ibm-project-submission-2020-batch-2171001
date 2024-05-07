@@ -16,3 +16,5 @@ Enter the project name in the "**Name**" field.
 In the "**Command**" field, enter `cmd.exe` for **_Windows_** or `bash` for **_Linux/Mac_**.
 
 Click on the **drop-down** list and select "**Not installed**" option.
+
+And, on the right-hand side *Search Bar* search for "**jupyter**". Check the "**jupyter**" metapackage and click on "**Apply**".
